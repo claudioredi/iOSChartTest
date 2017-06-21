@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSChartTest", "iOSChartTest\iOSChartTest.csproj", "{3F88E98D-40B6-45BC-9028-58E70332B27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Release|iPhone.Build.0 = Release|iPhone
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3F88E98D-40B6-45BC-9028-58E70332B27C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
